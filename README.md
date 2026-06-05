@@ -87,7 +87,7 @@ Yeni kullanıcıların sisteme kayıt olmasını sağlayan ekrandır.
 
 Kullanıcıların sipariş verecekleri masayı seçtikleri ekrandır.
 
-![Masa Seçimi](screenshots/kullanici_masa.jpeg)
+![Masa Seçimi](./screenshots/kullanici_masa.jpeg)
 
 ---
 
@@ -164,7 +164,34 @@ Sistemde kayıtlı kullanıcıların görüntülendiği ve yönetildiği ekran.
 ![Kullanıcı Yönetimi](screenshots/yonetici_kullanicilar.png)
 
 
-👥 Proje Ekibi
-Elif Karaçam
-Ayşe Yılmaz
-Merve Nur Şen
+# 👨‍💻 Geliştirici Ekibi
+
+Bu proje ekip çalışması kapsamında geliştirilmiştir.
+
+## Takım Üyeleri
+
+* **Elif Karacam** – Bilgisayar Programcısı
+* **Ayşe Yılmaz** – Bilgisayar Programcısı
+* **Merve Nur Şen** – Bilgisayar Programcısı
+
+## 📌 Proje Hakkında
+
+Cafe Otomasyonu projesi, C# Windows Forms ve MySQL teknolojileri kullanılarak ekip çalışması kapsamında geliştirilmiştir. Proje sürecinde analiz, tasarım, veritabanı oluşturma, kullanıcı arayüzü geliştirme, test ve hata giderme aşamaları ekip üyeleri tarafından ortaklaşa yürütülmüştür.
+
+Proje; kullanıcı kayıt ve giriş işlemleri, masa yönetimi, ürün listeleme, sipariş oluşturma, sepet işlemleri ve yönetici paneli gibi temel cafe yönetim süreçlerini kapsamaktadır.
+
+Bu çalışma sayesinde ekip üyeleri;
+
+* Veritabanı yönetimi
+* C# ile masaüstü uygulama geliştirme
+* Nesne yönelimli programlama (OOP)
+* Kullanıcı yetkilendirme sistemleri
+* Git ve GitHub ile versiyon kontrolü
+* Takım çalışması ve proje yönetimi
+
+konularında deneyim kazanmıştır.
+
+## 📄 Lisans
+
+Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
+
