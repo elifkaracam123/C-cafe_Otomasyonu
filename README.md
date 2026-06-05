@@ -87,7 +87,7 @@ Yeni kullanıcıların sisteme kayıt olmasını sağlayan ekrandır.
 
 Kullanıcıların sipariş verecekleri masayı seçtikleri ekrandır.
 
-![Masa Seçimi](./screenshots/kullanici_masa.jpeg)
+![Masa Seçimi](./screenshots/kullanıcı_masa.jpeg)
 
 ---
 
