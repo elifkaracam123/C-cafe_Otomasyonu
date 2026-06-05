@@ -61,38 +61,108 @@ SiparisDetaylari
 
 Kullanıcı şifreleri veritabanında düz metin olarak tutulmamaktadır. Şifreler SHA256 algoritması kullanılarak hashlenmekte ve güvenli şekilde saklanmaktadır.
 
-📸 Uygulama Ekranları
-Ana Menü
+# 📸 Uygulama Ekran Görüntüleri
 
-Burada uygulamanın başlangıç ekranı yer almaktadır. Kullanıcı giriş yapabilir veya yeni hesap oluşturabilir.
+## 🏠 Ana Menü
 
-Kullanıcı Giriş Ekranı
+Uygulamanın başlangıç ekranıdır. Kullanıcılar giriş yapabilir veya yeni hesap oluşturabilir.
 
-Kayıtlı kullanıcılar telefon numarası ve şifreleri ile sisteme giriş yapabilmektedir.
+![Ana Menü 1](screenshots/anamenu1.png)
 
-Kayıt Ol Ekranı
+![Ana Menü 2](screenshots/anamenu2.png)
+
+---
+
+## 📝 Kayıt Ol Ekranı
 
 Yeni kullanıcıların sisteme kayıt olmasını sağlayan ekrandır.
 
-Masa Seçim Ekranı
+![Kayıt Ol](screenshots/kayit_ol.png)
 
-Kullanıcılar sipariş verecekleri masayı seçebilmektedir.
+---
 
-Menü Ekranı
+# 👤 Kullanıcı Paneli
 
-Cafe ürünleri kategorilere göre listelenmektedir.
+## 🚪 Masa Seçim Ekranı
 
-Sepet Ekranı
+Kullanıcıların sipariş verecekleri masayı seçtikleri ekrandır.
 
-Eklenen ürünler görüntülenebilir, silinebilir ve toplam tutar hesaplanır.
+![Masa Seçimi](screenshots/kullanici_masa.jpeg)
 
-Ödeme Ekranı
+---
 
-Nakit veya kredi kartı ile ödeme işlemi gerçekleştirilebilir.
+## 🍽️ Menü Ekranı
 
-Yönetici Paneli
+Cafe ürünlerinin listelendiği ana menü ekranıdır.
 
-Yöneticiler ürün, sipariş, kullanıcı ve masa yönetimini gerçekleştirebilir.
+![Menü](screenshots/menu.png)
+
+### 🍔 Yemek Menüsü
+
+![Yemek Menüsü](screenshots/menu_yemek.png)
+
+### 🍰 Tatlı Menüsü
+
+![Tatlı Menüsü](screenshots/menu_tatli.png)
+
+### ☕ Sıcak İçecek Menüsü
+
+![Sıcak İçecek Menüsü](screenshots/menu_sicak_icecek.png)
+
+### 🥤 Soğuk İçecek Menüsü
+
+![Soğuk İçecek Menüsü](screenshots/menu_soguk_icecek.png)
+
+---
+
+## 🛒 Sepet Ekranı
+
+Kullanıcının seçtiği ürünleri görüntülediği ve sipariş oluşturduğu ekrandır.
+
+![Sepet](screenshots/kullanici_sepet.jpeg)
+
+---
+
+## ⚙️ Kullanıcı Ayarları
+
+Kullanıcı bilgilerinin görüntülendiği ve düzenlenebildiği ekrandır.
+
+![Kullanıcı Ayarları](screenshots/kullanici_ayarlar.png)
+
+---
+
+# 🔐 Yönetici Paneli
+
+## 📦 Ürün Yönetimi
+
+Ürün ekleme, silme ve güncelleme işlemlerinin yapıldığı ekran.
+
+![Ürün Yönetimi](screenshots/yonetici_urunler.png)
+
+---
+
+## 📋 Sipariş Yönetimi
+
+Müşteri siparişlerinin görüntülendiği ve yönetildiği ekran.
+
+![Sipariş Yönetimi](screenshots/yonetici_siparisler.png)
+
+---
+
+## 🪑 Masa Yönetimi
+
+Masaların durumlarının takip edildiği ve yönetildiği ekran.
+
+![Masa Yönetimi](screenshots/yonetici_masalar.png)
+
+---
+
+## 👥 Kullanıcı Yönetimi
+
+Sistemde kayıtlı kullanıcıların görüntülendiği ve yönetildiği ekran.
+
+![Kullanıcı Yönetimi](screenshots/yonetici_kullanicilar.png)
+
 
 👥 Proje Ekibi
 Elif Karaçam
