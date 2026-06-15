@@ -168,7 +168,7 @@ Sistemde kayıtlı kullanıcıların görüntülendiği ve yönetildiği ekran.
 
 Bu proje ekip çalışması kapsamında geliştirilmiştir.
 
-## Takım Üyeleri
+## Ekip Üyeleri
 
 * **Elif Karacam** – Bilgisayar Programcısı
 * **Ayşe Yılmaz** – Bilgisayar Programcısı
